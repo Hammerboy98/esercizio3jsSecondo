@@ -1,0 +1,40 @@
+body {
+    background-color: blueviolet;
+}
+
+.container {
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+    width: 500px;
+    height: 500px;
+    margin: 150px 20px 50px 600px;
+
+}
+
+input {
+    width: 250px;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+button {
+    padding: 10px 15px;
+    background-color: blue;
+    color: white;
+}
+
+ul li {
+    padding: 0;
+    width: 135px;
+}
+
+li.completed {
+    text-decoration: line-through;
+}
+
+button.remove {
+    background-color: red;
+    color: white;
+    padding: 5px;
+}
